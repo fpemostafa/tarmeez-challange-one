@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import AppHeader from "./components/Header/AppHeader";
+import Post from "./components/post/Post";
+import SideMenu from "./components/SideMenu/SideMenu";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+   return (
+      <div className="App">
+         <AppHeader />
+         {/* Page Content */}
+         <div style={{ maxWidth: "1200px", margin: "0 auto", display: "flex" }}>
+            {/* Post Container */}
+            <div style={{ width: "70%", paddingRight: "20px" }}>
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+               <Post />
+            </div>
+            {/* End Post Container*/}
+
+            {/* Side Container */}
+            <div style={{ width: "30%" }}>
+               <SideMenu />
+            </div>
+
+            {/* End Side Container */}
+            {/* End Page Content */}
+         </div>
+      </div>
+   );
 }
 
 export default App;

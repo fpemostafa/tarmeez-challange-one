@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "[Cobalt2]": {
+            "menu.selectionForeground": "#fff",
+            "menubar.selectionBackground": "#7a94a3",
+            "activityBar.foreground": "#f2ffda",
+            "activityBar.border": "#45526e",
+            "activityBar.activeBorder": "#63d1fd",
+            "activityBar.inactiveForeground": "#63d1fd70",
+            "activityBarBadge.background": "#ffd000",
+            "activityBar.activeBackground": "#7a94a3",
+            "window.activeBorder": "#583dce",
+            "badge.background": "#ffc600",
+            "badge.foreground": "#000",
+            "button.background": "#0088ff",
+            "button.foreground": "#fff",
+            "button.hoverBackground": "#ff9d00",
+            "tab.hoverBorder": "#b1ffff",
+            "tab.hoverForeground": "#b1ffff"
+        },
+        "activityBar.background": "#09351F",
+        "titleBar.activeBackground": "#0C4A2B",
+        "titleBar.activeForeground": "#F3FDF8"
+    }
+}

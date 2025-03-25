@@ -1,0 +1,12 @@
+.app-header {
+   background-color: teal;
+   height: 200px;
+   color: #fff;
+   box-shadow: 0 5px 16px #0000002a;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   h1 {
+      font-size: 30px;
+   }
+}
