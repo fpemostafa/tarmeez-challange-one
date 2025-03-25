@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarmeez-challange-one/static/css/main.671933e0.css",
+    "main.js": "/tarmeez-challange-one/static/js/main.015cfd64.js",
+    "static/js/453.544c2008.chunk.js": "/tarmeez-challange-one/static/js/453.544c2008.chunk.js",
+    "index.html": "/tarmeez-challange-one/index.html",
+    "main.671933e0.css.map": "/tarmeez-challange-one/static/css/main.671933e0.css.map",
+    "main.015cfd64.js.map": "/tarmeez-challange-one/static/js/main.015cfd64.js.map",
+    "453.544c2008.chunk.js.map": "/tarmeez-challange-one/static/js/453.544c2008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671933e0.css",
+    "static/js/main.015cfd64.js"
+  ]
+}
